@@ -1,7 +1,19 @@
 body {
-    background: url(/Images/background.jpg) background
+    background: url(/Images/background.jpg);
+
+    @font-face {
+        font-family: trap;
+        src: url(/fonts/Trap-Bold.otf);
+        font: weight 100%;
+    }
 }
 
 h1 {
     font-family: cursive;
+    color: black;
+    text-shadow: 2px 2px whitesmoke;
+    opacity: 0.8;
+    font-size: 400%;
+    text-align: center;
+
 }
