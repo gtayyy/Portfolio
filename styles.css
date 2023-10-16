@@ -19,12 +19,20 @@ h1 {
     text-align: center;
 }
 
+p {
+    color: whitesmoke;
+}
+
 .about_me {
-    color: whitesmoke
+    color: whitesmoke;
+    text-decoration: underline;
+    text-align: center;
 }
 
 .past_projects {
     color: whitesmoke;
+    text-decoration: underline;
+    text-align: center;
 }
 
 ul {
@@ -37,4 +45,18 @@ a {
 
 .pro_bg {
     color: whitesmoke;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.edu {
+    color: whitesmoke;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.hobbies {
+    color: whitesmoke;
+    text-decoration: underline;
+    text-align: center;
 }
