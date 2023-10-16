@@ -3,15 +3,39 @@ div {
 }
 
 body {
-    background: url(/Images/leather.jpg);
+    background: url(/Images/background.jpg);
+}
+
+img {
+    height: auto;
+    width: 50vh;
+    margin-left: 35vw;
 }
 
 h1 {
     color: rgb(7, 7, 7);
     text-shadow: 2px 2px whitesmoke;
-    opacity: 0.8;
-    font-size: 400%;
+    font-size: 500%;
     text-align: center;
+    font-stretch: 100%;
+}
+
+.border {
+    padding-top: 21px;
+    padding-bottom: 5px;
+    padding-left: 300px;
+    padding-right: 300px;
+    border: 10px;
+    border-style: double;
+    background-color: rgb(201, 125, 58);
+    opacity: 0.8;
+}
+
+.copy-border {
+    border: 10px;
+    border-style: double;
+    background-color: rgb(201, 125, 58);
+    opacity: 0.8;
 }
 
 p {
