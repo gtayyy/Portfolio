@@ -19,10 +19,18 @@ h1 {
     text-align: center;
 }
 
+.about_me {
+    color: whitesmoke
+}
+
 .past_projects {
     color: whitesmoke;
 }
 
-.about_me {
-    color: whitesmoke
+ul {
+    color: whitesmoke;
+}
+
+a {
+    color: whitesmoke;
 }
