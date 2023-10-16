@@ -19,14 +19,30 @@ h1 {
     text-align: center;
 }
 
-h4 {
-    color: whitesmoke
-}
-
 p {
     color: whitesmoke;
 }
 
+ol {
+    color: whitesmoke;
+}
+
+a {
+    color: whitesmoke;
+}
+
+h2 {
+    color: whitesmoke;
+    text-align: center;
+    text-decoration: line-through;
+    font-size: 200%;
+}
+
+ul {
+    color: whitesmoke;
+}
+
+/*
 .about_me {
     color: whitesmoke;
     text-decoration: underline;
@@ -39,32 +55,9 @@ p {
     text-align: center;
 }
 
-ol {
-    color: whitesmoke;
-}
-
-a {
-    color: whitesmoke;
-}
-
 .pro_bg {
     color: whitesmoke;
     text-decoration: underline;
     text-align: center;
 }
-
-.edu {
-    color: whitesmoke;
-    text-decoration: underline;
-    text-align: center;
-}
-
-h2 {
-    color: whitesmoke;
-}
-
-.hobbies {
-    color: whitesmoke;
-    text-decoration: underline;
-    text-align: center;
-}
+*/
