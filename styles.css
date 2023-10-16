@@ -1,14 +1,9 @@
-body {
-    background: url(/Images/leather.jpg);
+div {
+    font-family: trap;
 }
 
-html * {
-    style {
-        @font-face {
-            font-family: trap;
-            src: url(/fonts/Trap-Bold.otf);
-        }
-    }
+body {
+    background: url(/Images/leather.jpg);
 }
 
 h1 {
