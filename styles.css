@@ -4,7 +4,7 @@ div {
 }
 
 body {
-    background: url(/Images/background.jpg);
+    background: url(../Images/background.jpg);
 }
 
 img {
@@ -26,6 +26,7 @@ h2 {
     text-decoration: line-through;
     font-size: 350%;
     text-shadow: 2px 2px rgb(201, 125, 58);
+    opacity: .8;
 }
 
 .border {
@@ -47,7 +48,11 @@ h2 {
     padding-left: 20px;
     padding-right: 20px;
     background-color: rgb(201, 125, 58);
+    opacity: .8;
+    display: block;
 }
+
+/* including these for ease of future changes to the page */
 
 p {
     color: whitesmoke;
@@ -66,23 +71,3 @@ ul {
     margin-right: 50px;
     margin-left: auto;
 }
-
-/*
-.about_me {
-    color: whitesmoke;
-    text-decoration: underline;
-    text-align: center;
-}
-
-.past_projects {
-    color: whitesmoke;
-    text-decoration: underline;
-    text-align: center;
-}
-
-.pro_bg {
-    color: whitesmoke;
-    text-decoration: underline;
-    text-align: center;
-}
-*/
