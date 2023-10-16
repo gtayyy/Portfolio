@@ -19,6 +19,10 @@ h1 {
     text-align: center;
 }
 
+h4 {
+    color: whitesmoke
+}
+
 p {
     color: whitesmoke;
 }
@@ -35,7 +39,7 @@ p {
     text-align: center;
 }
 
-ul {
+ol {
     color: whitesmoke;
 }
 
@@ -53,6 +57,10 @@ a {
     color: whitesmoke;
     text-decoration: underline;
     text-align: center;
+}
+
+h2 {
+    color: whitesmoke;
 }
 
 .hobbies {
