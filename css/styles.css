@@ -1,10 +1,7 @@
-div {
-    font-family: trap;
-    color: whitesmoke;
-}
-
 body {
     background-image: url(../Images/background.jpg);
+		font-family: trap;
+    color: whitesmoke;
 }
 
 img {
