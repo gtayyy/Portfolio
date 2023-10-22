@@ -25,6 +25,7 @@ h2 {
     text-align: center;
     text-decoration: line-through;
     font-size: 350%;
+		color: whitesmoke;
     text-shadow: 2px 2px rgb(201, 125, 58);
     opacity: .8;
 }
@@ -47,11 +48,16 @@ h2 {
     padding-bottom: 15px;
     padding-left: 20px;
     padding-right: 20px;
+		margin-bottom: 150px;
     background-color: rgb(201, 125, 58);
     opacity: .8;
     display: block;
 }
 
+#now {
+	text-align: center;
+	font-size: 40px;
+}
 /* including these for ease of future changes to the page */
 
 p {
