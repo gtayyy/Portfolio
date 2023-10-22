@@ -1,7 +1,10 @@
+div {
+    font-family: trap;
+    color: whitesmoke;
+}
+
 body {
     background-image: url(../Images/background.jpg);
-		font-family: trap;
-    color: whitesmoke;
 }
 
 img {
@@ -57,5 +60,5 @@ h2 {
 }
 
 a {
-	color: whitesmoke;
+    color: whitesmoke;
 }
